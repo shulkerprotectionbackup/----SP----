@@ -18,16 +18,16 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
-      {"ip": "65.108.21.189", "port": "25846"}
+      {"ip": "65.108.21.199", "port": "25846"}
     ],
     "PLUGIN_MANAGER": [
       {"PLUGIN_VER_NEW": "1.3-Beta-Sv2.0.1"},
-      {"AUTHOR_NAME": "LPVania"},
-      {"AUTHOR_TELEGRAM": "t.me/Xppeed"},
-      {"AUTHOR_DISCORD": "XSDpeed"}
+      {"AUTHOR_NAME": "Shevchik"},
+      {"AUTHOR_TELEGRAM": "t.me/Shevchik"},
+      {"AUTHOR_DISCORD": "Shevchik"}
     ]
   },
  
